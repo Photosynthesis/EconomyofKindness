@@ -6,9 +6,9 @@ Pull requests to update this list are welcome!
 
 Resources are organized by section. Some general resources that align with the overall message of the article and support putting its content into action:
 
-New Economy Coalition
+[New Economy Coalition](https://neweconomy.net/)
 
-Happonomy
+[Happonomy](https://happonomy.org)
 
 Don't Go Back To Normal
 
@@ -23,7 +23,7 @@ Meditation
 
 Plum village tradition
 
-[The Work That Reconnects network]()
+[The Work That Reconnects network](https://workthatreconnects.org)
 
 [Coming Back To Life]()
 
@@ -44,9 +44,9 @@ How to start a community garden
 
 ## Networks
 
-Murmurations
+[Murmurations](https://murmurations.network)
 
-Foundation for Intentional Community
+[Foundation for Intentional Community](https://ic.org)
 
 Global Ecovillage Network
 
