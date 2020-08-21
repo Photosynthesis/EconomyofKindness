@@ -1,40 +1,49 @@
-# Welcome
+# Economy of Kindness: resources and practices
 
 This is a repository for resources related to this [article on a possible economy of kindness](). The whole article is also in this repo [here](). 
 
-Pull requests to update this list are welcome! 
+Pull requests to update this list are welcome.
 
-Resources are organized by section. Some general resources that align with the overall message of the article and support putting its content into action:
+## General sources
+
+### Websites and organizations
+[Local Futures](localfutures.org)
+Founded by Helena Norberge-Hodge, Local Futures organizes the Economics of Happiness conferences and advocates for holistic, localized, happy economies. 
 
 [New Economy Coalition](https://neweconomy.net/)
+NEC is a coalition of 200+ member organizations, centered in the US, working for a new (and kinder) economy.
 
 [Happonomy](https://happonomy.org)
+Happonomy, based in Belgium, works to build a 
 
-Don't Go Back To Normal
+[Creative Culture Guide](https://creativecultureguide.org)
 
 Sacred Economics
 
 Evonomics
 
-### [Being and feeling]() as whole humans
-Resources for personal insight
+## [Being and feeling]() as whole humans
+**Resources for personal insight**
 
-Meditation
-
-Plum village tradition
-
+**The Work That Reconnects**
+Powerful practices for returning to our 
 [The Work That Reconnects network](https://workthatreconnects.org)
 
 [Coming Back To Life]()
+Book of WTR practices by Joanna Macy and Molly Young Brown
 
-[Moral Imaginations]() 
+**Meditation**
+[Plum village] 
+Founded by monk and activist Thich Naht Hanh, the Plum Village tradition of engaged Buddhism 
 
-Fritjof Capra
+[Peace is Every Step]()
+Book by Thich Naht Hanh
 
-The Hidden connections
+[Meditation Plain and Simple]()
+Book by Christina Feldman
 
-### [Reaching out]() into community
-#Resources for connecting in community
+## [Reaching out]() into community
+**Resources for connecting to others**
 
 Mutual aid networks
 
@@ -42,53 +51,45 @@ Neighbourhoods
 
 How to start a community garden
 
-## Networks
+**Networks**
 
 [Murmurations](https://murmurations.network)
 
 [Foundation for Intentional Community](https://ic.org)
 
-Global Ecovillage Network
+[Global Ecovillage Network](https://ecovillage.org)
 
-Creative Culture Guide
+[Microsolidarity]()
 
-Microsolidarity
-
-
-
-### [Giving]() courageously
-
-### [Building the mechanisms]() of a new economy
+[Bloom Network]()
 
 
-Community Currency Alliance
 
-Co-op directories
+## [Giving]() courageously
+**Resources on the 
 
-Community Finance
+## [Building the mechanisms]() of a new economy
+**Tools for new systems**
 
-Solidarity economy association
+[Open Co-op]
 
-Commons Manifesto
+[Community Currency Alliance]
 
-Thinking in Systems
+[Commons Manifesto]
 
-Plato's Revenge
+[Solidarity Economy Association]
 
-Books:
+[Thinking in Systems]
 
+[Plato's Revenge]
 
 
 ### [Living in the new world]()
+**Resources for living in a new economy**
 
-Resources for living in a new economy
+[The more beautiful world our hearts know is possible]()
+Book by Charles Eisenstein
 
-## Find the others
-
-
-
-## Books
-The more beautiful world our hearts know is possible
 
 
 
