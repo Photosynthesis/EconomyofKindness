@@ -7,29 +7,33 @@ Pull requests to update this list are welcome.
 ## General sources
 
 ### Websites and organizations
-[Local Futures](localfutures.org)
+
+ - [Local Futures](localfutures.org)
 Founded by Helena Norberge-Hodge, Local Futures organizes the Economics of Happiness conferences and advocates for holistic, localized, happy economies. 
 
-[New Economy Coalition](https://neweconomy.net/)
+ -[New Economy Coalition](https://neweconomy.net/)
 NEC is a coalition of 200+ member organizations, centered in the US, working for a new (and kinder) economy.
 
-[Happonomy](https://happonomy.org)
+-[Happonomy](https://happonomy.org)
 Happonomy, based in Belgium, works to build a 
 
-[Creative Culture Guide](https://creativecultureguide.org)
+-[Creative Culture Guide](https://creativecultureguide.org)
 
-Sacred Economics
+[Evonomics](https://evonomics.com)
 
-Evonomics
+📖 [Sacred Economics]
+Book by Charles Eisenstein
+
+
 
 ## [Being and feeling]() as whole humans
 **Resources for personal insight**
 
 **The Work That Reconnects**
-Powerful practices for returning to our 
-[The Work That Reconnects network](https://workthatreconnects.org)
+Powerful practices for returning connection with the rest of life.
+💻[The Work That Reconnects network](https://workthatreconnects.org)
 
-[Coming Back To Life]()
+📖 [Coming Back To Life]()
 Book of WTR practices by Joanna Macy and Molly Young Brown
 
 **Meditation**
