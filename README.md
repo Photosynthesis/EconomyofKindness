@@ -1,97 +1,102 @@
-# Economy of Kindness: resources and practices
+# Practices and Resources for an Economy of Kindness
 
-This is a repository for resources related to this [article on a possible economy of kindness](). The whole article is also in this repo [here](). 
+This repository goes with [this article on a possible economy of kindness](). The article discusses how in these times of Coronavirus, the economy of selfishness is failing. Another economy is possible. To make that economy real, we can to look at ourselves, our relationships, our community, and our economic mechanisms in new ways. Our basic needs for meaning, connection, and care are not being served by the greed economy.
 
-Pull requests to update this list are welcome.
+This resource list includes practices, books, organizations, and web sites that I have found useful in the journey towards a possible economy of kindness. The list is incomplete. Please [submit an issue](https://github.com/Photosynthesis/EconomyofKindness/issues/new) to suggest additions. Thanks!
+
 
 ## General sources
 
 ### Websites and organizations
 
- - [Local Futures](localfutures.org)
+ - [Local Futures](https://localfutures.org)
 Founded by Helena Norberge-Hodge, Local Futures organizes the Economics of Happiness conferences and advocates for holistic, localized, happy economies. 
 
- -[New Economy Coalition](https://neweconomy.net/)
+ - [New Economy Coalition](https://neweconomy.net/)
 NEC is a coalition of 200+ member organizations, centered in the US, working for a new (and kinder) economy.
 
--[Happonomy](https://happonomy.org)
+- [Happonomy](https://happonomy.org)
 Happonomy, based in Belgium, works to build a 
 
--[Creative Culture Guide](https://creativecultureguide.org)
+- [Creative Culture Guide](https://creativecultureguide.org)
 
-[Evonomics](https://evonomics.com)
+- [Evonomics](https://evonomics.com)
 
-📖 [Sacred Economics]
+📖 [Sacred Economics](https://www.goodreads.com/book/show/54924528-sacred-economics-revised)
 Book by Charles Eisenstein
 
 
 
-## [Being and feeling]() as whole humans
-**Resources for personal insight**
+## [Being and feeling]() as whole humans  
+**Resources for personal insight**  
+The inner journey is never-ending, but nevertheless the path brings its own rewards.  
 
-**The Work That Reconnects**
-Powerful practices for returning connection with the rest of life.
-💻[The Work That Reconnects network](https://workthatreconnects.org)
+**Meditation**  
+[Plum village](https://plumvillage.org)  
+Founded by monk and activist Thich Naht Hanh, the Plum Village tradition of engaged Buddhism gives some accessible   
 
-📖 [Coming Back To Life]()
-Book of WTR practices by Joanna Macy and Molly Young Brown
+[Peace is Every Step](https://www.goodreads.com/book/show/14572.Peace_Is_Every_Step)  
+[Being Peace](https://www.goodreads.com/book/show/331344.Being_Peace)  
+Books by Thich Naht Hanh  
 
-**Meditation**
-[Plum village] 
-Founded by monk and activist Thich Naht Hanh, the Plum Village tradition of engaged Buddhism 
-
-[Peace is Every Step]()
-Book by Thich Naht Hanh
-
-[Meditation Plain and Simple]()
+[Meditation Plain and Simple](https://www.goodreads.com/book/show/6369835-meditation-plain-and-simple)  
 Book by Christina Feldman
 
-## [Reaching out]() into community
-**Resources for connecting to others**
+**The Work That Reconnects**  
+Powerful practices for returning to connection with deeper parts of our selves and the rest of life.  
+💻[The Work That Reconnects network](https://workthatreconnects.org)  
 
-Mutual aid networks
-
-Neighbourhoods
-
-How to start a community garden
-
-**Networks**
-
-[Murmurations](https://murmurations.network)
-
-[Foundation for Intentional Community](https://ic.org)
-
-[Global Ecovillage Network](https://ecovillage.org)
-
-[Microsolidarity]()
-
-[Bloom Network]()
+📖 [Coming Back To Life](https://www.goodreads.com/book/show/21535383-coming-back-to-life)  
+Book of WTR practices by Joanna Macy and Molly Young Brown  
 
 
+Also media:
+[KarunaVirus](https://karunavirus.org)
 
-## [Giving]() courageously
-**Resources on the 
+## [Reaching out]() into community  
+**Resources for connecting to others**  
+  
+**Community gardens**  
+Gardening with others is a great way to build community. Google your city or area and "community garden" and you'll probably find a few options. Also, the people who run and use commnunity gardens are sometimes interesting folks, well started on the Kindness Economy journey!
 
-## [Building the mechanisms]() of a new economy
-**Tools for new systems**
+[Mutual aid networks](https://www.mutualaidhub.org/)
+This is a hub of local mutual aid networks. 
 
-[Open Co-op]
+**Networks**  
 
-[Community Currency Alliance]
+[Foundation for Intentional Community](https://ic.org)  
 
-[Commons Manifesto]
+[Global Ecovillage Network](https://ecovillage.org)  
 
-[Solidarity Economy Association]
+[Microsolidarity]()  
 
-[Thinking in Systems]
+[Bloom Network]()  
 
-[Plato's Revenge]
+
+
+## [Giving]() courageously  
+**Resources on the   
+
+## [Building the mechanisms]() of a new economy  
+**Tools for new systems**  
+
+[Open Co-op](https://open.coop) 
+
+[Community Currency Alliance](https://currency.community/)  
+
+[Commons Manifesto]  
+
+[Solidarity Economy Association]  
+
+[Thinking in Systems]  
+
+[Plato's Revenge]  
 
 
 ### [Living in the new world]()
 **Resources for living in a new economy**
 
-[The more beautiful world our hearts know is possible]()
+[The more beautiful world our hearts know is possible](https://www.goodreads.com/book/show/17345270-the-more-beautiful-world-our-hearts-know-is-possible)
 Book by Charles Eisenstein
 
 
