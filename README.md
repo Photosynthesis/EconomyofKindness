@@ -6,7 +6,7 @@ This resource list includes practices, books, organizations, and web sites that 
 
 
 
-## Coming back to center  
+## Coming back to center -- being and feeling as whole humans
 **Resources for personal insight**  
 There are myriad ways to go inward. These are not prescriptions, just ideas -- perhaps useful for those who aren't already engaged with a method or tradition, or who are looking for new approaches.
 
