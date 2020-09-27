@@ -73,7 +73,7 @@ Book by Charles Eisenstein
 Founded by Helena Norberge-Hodge, Local Futures organizes the Economics of Happiness conferences and advocates for holistic, localized, happy economies. 
 
 
-### [Living in the new world]()
+## Living in the new world
 **Resources for living in a new economy**
 
 - 📖 [The more beautiful world our hearts know is possible](https://www.goodreads.com/book/show/17345270-the-more-beautiful-world-our-hearts-know-is-possible)
