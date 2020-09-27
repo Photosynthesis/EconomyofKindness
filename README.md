@@ -6,7 +6,7 @@ This resource list includes practices, books, organizations, and web sites that 
 
 
 
-## [Being and feeling]() as whole humans  
+## Coming back to center  
 **Resources for personal insight**  
 There are myriad ways to go inward. These are not prescriptions, just ideas -- perhaps useful for those who aren't already engaged with a method or tradition, or who are looking for new approaches.
 
@@ -16,7 +16,7 @@ Founded by monk and activist Thich Naht Hanh, the Plum Village tradition of enga
 
 📖[Peace is Every Step](https://www.goodreads.com/book/show/14572.Peace_Is_Every_Step)  
 📖[Being Peace](https://www.goodreads.com/book/show/331344.Being_Peace)  
-Book by Thich Naht Hanh  
+Books by Thich Naht Hanh  
 
 📖[Meditation Plain and Simple](https://www.goodreads.com/book/show/6369835-meditation-plain-and-simple)  
 Book by Christina Feldman
@@ -31,27 +31,25 @@ Book of WTR practices by Joanna Macy and Molly Young Brown
 💻[Gratefulness.org](https://gratefulness.org/)  
 An amazing project started by Brother David Steindl-Rast, a Benedictine monk.
 
-## [Reaching out]() into community  
+## Reaching out into community  
 **Resources for connecting to others**  
   
 **Community gardens**  
 Gardening with others is a great way to build community. Google your city or area and "community garden" and you'll probably find a few options. Also, the people who run and use commnunity gardens are often interesting folks!
 
-- [Mutual aid networks](https://www.mutualaidhub.org/)
-This is a hub of local mutual aid networks. 
-
 **Networks**  
+These networks can help with finding people and places of community near where you live
 
 - [Foundation for Intentional Community](https://ic.org)  
 
 - [Global Ecovillage Network](https://ecovillage.org)  
 
-- [Microsolidarity](http://microsolidarity.cc)  
-
 - [Bloom Network](https://bloomnetwork.org)  
 
+- 💻 [Mutual aid networks](https://www.mutualaidhub.org/)
+This is a hub of local mutual aid networks. 
 
-## [Building the mechanisms]() of a new economy  
+## Building the mechanisms of a new economy  
 **Tools for new systems**  
 
 - [Open Co-op](https://open.coop) 
@@ -73,7 +71,6 @@ Book by Charles Eisenstein
 
 - [Local Futures](https://localfutures.org)
 Founded by Helena Norberge-Hodge, Local Futures organizes the Economics of Happiness conferences and advocates for holistic, localized, happy economies. 
-
 
 
 ### [Living in the new world]()
