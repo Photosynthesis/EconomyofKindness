@@ -1,6 +1,6 @@
 # Practices and Resources for an Economy of Kindness
 
-This repository goes with [this article on a possible **economy of kindness**](https://sapient.life/economy-of-kindness). In these times of pandemic, climate change, and human+ecological crisis, the economy of selfishness is failing. Another economy is possible. Making that economy real involves opening our selves, our relationships, our community, and our economic mechanisms to new ways of seeing and behaving. Our basic needs for meaning, connection, and care are not being served by the greed economy, which makes another economy not only more responsible, but also more fun.
+This repository goes with [this article on a possible **economy of kindness**](https://www.sapient.life/post/economy-of-kindness). In these times of pandemic, climate change, and human+ecological crisis, the economy of selfishness is failing. Another economy is possible. Making that economy real involves opening our selves, our relationships, our community, and our economic mechanisms to new ways of seeing and behaving. Our basic needs for meaning, connection, and care are not being served by the greed economy, which makes another economy not only more responsible, but also more fun.
 
 This resource list includes practices, books, organizations, and web sites that I have found useful in the journey towards a possible economy of kindness. The list is incomplete. Please [submit an issue](https://github.com/Photosynthesis/EconomyofKindness/issues/new) to suggest additions. Thanks!
 
